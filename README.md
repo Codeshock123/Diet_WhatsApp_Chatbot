@@ -31,7 +31,8 @@ Before you begin, make sure you have:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/diet-whatsapp-chatbot.git
-cd diet-whatsapp-chatbot```
+cd diet-whatsapp-chatbot
+```
 
 ### 2. Create and activate a virtual environment (recommended)
 ```bash
@@ -39,10 +40,13 @@ python -m venv venv
 # On Mac/Linux
 source venv/bin/activate
 # On Windows
-venv\Scripts\activate```
+venv\Scripts\activate
+```
 
 ### 3. Install dependencies
-```bash pip install flask twilio```
+```bash
+pip install flask twilio
+```
 
 ### 4. Configure Twilio Sandbox for WhatsApp
 (i)  Go to Twilio Console → Messaging → Try it Out → WhatsApp Sandbox.
@@ -55,14 +59,16 @@ venv\Scripts\activate```
 ## 🚀 How to Run
 ### 1. Start the Flask app
 ```bash
-python app.py```
+python app.py
+```
 
 By default, it runs at:
 👉 http://127.0.0.1:5000
 
 ### 2. Expose your local server using ngrok
 ```bash
-ngrok http 5000```
+ngrok http 5000
+```
 
 Copy the https URL from the ngrok output (e.g., https://xxxx.ngrok.io).
 
