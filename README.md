@@ -49,10 +49,10 @@ pip install flask twilio
 ```
 
 ### 4. Configure Twilio Sandbox for WhatsApp
-(i)  Go to Twilio Console → Messaging → Try it Out → WhatsApp Sandbox.
-(ii) Follow the steps to join the sandbox (you’ll get a join code to send via WhatsApp).
-(iii)Copy your Twilio Account SID and Auth Token.
-(iv) Set up a webhook URL (you’ll get it in the next step).
+1. Go to Twilio Console → Messaging → Try it Out → WhatsApp Sandbox.
+2. Follow the steps to join the sandbox (you’ll get a join code to send via WhatsApp).
+3. Copy your Twilio Account SID and Auth Token.
+4. Set up a webhook URL (you’ll get it in the next step).
 
 ---
 
@@ -109,7 +109,8 @@ Bot:
 ❌ Foods to Avoid:
 • White Bread  
 
-💬 Type another condition or 'exit' to end the chat.```
+💬 Type another condition or 'exit' to end the chat.
+```
 
 ---
 
@@ -120,12 +121,17 @@ I welcome contributions! Follow these steps:
 ### 🧾 Guidelines
 1. Fork the repository
 2. Create a new branch
-```git checkout -b feature/my-feature```
-3. Commit your changes
-```git commit -m "Add new feature"```
-4. Push your branch
-```git push origin feature/my-feature```
-5. Open a Pull Request
+```bash
+git checkout -b feature/my-feature
+```
+4. Commit your changes
+```bash git commit -m "Add new feature"
+```
+6. Push your branch
+```bash
+git push origin feature/my-feature
+```
+8. Open a Pull Request
 
 ---
 
