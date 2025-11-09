@@ -6,7 +6,7 @@ A simple WhatsApp chatbot built using **Flask** and **Twilio** that provides **d
 
 ## 💡 Problem It Solves
 
-Many people with chronic conditions struggle to find clear, accessible, and personalized dietary guidance.  
+Many people with chronic conditions struggle to find clear, accessible dietary guidance.  
 This chatbot:
 
 - Simplifies nutrition recommendations for common conditions.  
@@ -125,7 +125,8 @@ I welcome contributions! Follow these steps:
 git checkout -b feature/my-feature
 ```
 4. Commit your changes
-```bash git commit -m "Add new feature"
+```bash
+git commit -m "Add new feature"
 ```
 6. Push your branch
 ```bash
@@ -136,13 +137,14 @@ git push origin feature/my-feature
 ---
 
 ## 📚 Libraries & Resources
-1. Flask – Web framework
-2. Twilio – WhatsApp API
-3. ngrok – Localhost tunneling
-4. American Heart Association (AHA) – Dietary references
-5. American Diabetes Association (ADA) – Dietary sources
-6. diet_kb.json – Nutritional knowledge base
-
+1. Flask – Web framework used to build the backend that handles WhatsApp messages and responses.
+2. Twilio – WhatsApp API integration for sending and receiving user messages.
+3. ngrok – Localhost tunneling tool to expose your Flask app to the internet for Twilio webhook setup.
+4. python-dotenv – Manages environment variables (recommended for securely storing Twilio credentials).
+5. American Heart Association (AHA) – Reference source for heart-healthy dietary guidelines.
+6. American Diabetes Association (ADA) – Reference source for diabetes-friendly dietary recommendations.
+7. diet_kb.json – Local JSON knowledge base containing categorized diet data (safe, limit, avoid) for each health condition.
+   
 ---
 
 ## 📞 Contact
