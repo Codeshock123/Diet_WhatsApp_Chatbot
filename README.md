@@ -92,7 +92,7 @@ Tell me your health conditions and I'll suggest foods that are safe, should be l
 
 ### Example 2: Condition Input
 You:
-diabetes, heart
+hypertension
 
 Bot:
 
@@ -104,7 +104,7 @@ Bot:
 • Salmon  
 
 ⚠️ Foods to Limit:
-• Carrots  
+• Sardines  
 
 ❌ Foods to Avoid:
 • White Bread  
