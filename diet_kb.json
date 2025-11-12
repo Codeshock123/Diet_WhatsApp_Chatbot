@@ -1,0 +1,204 @@
+{
+  "foods": [
+    {
+      "name": "Oats",
+      "category": "whole grain",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Brown Rice",
+      "category": "whole grain",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Quinoa",
+      "category": "whole grain",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Leafy Greens (Spinach, Kale)",
+      "category": "vegetable",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "NHS Inform, Academy of Nutrition and Dietetics (EatRight), Healthline"
+    },
+    {
+      "name": "Broccoli",
+      "category": "vegetable",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Carrots",
+      "category": "vegetable",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Tomatoes",
+      "category": "vegetable",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Apple",
+      "category": "fruit",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Banana",
+      "category": "fruit",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Berries (Blueberries, Strawberries)",
+      "category": "fruit",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Avocado",
+      "category": "fruit",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Salmon",
+      "category": "fish",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Sardines",
+      "category": "fish",
+      "safe_for": ["diabetes", "heart"],
+      "limit_for": ["hypertension (if canned/high-sodium)"],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Chicken (skinless)",
+      "category": "lean protein",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Lentils",
+      "category": "legume",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Chickpeas",
+      "category": "legume",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Almonds",
+      "category": "nuts",
+      "safe_for": ["diabetes", "heart", "hypertension (unsalted)"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Walnuts",
+      "category": "nuts",
+      "safe_for": ["diabetes", "heart", "hypertension (unsalted)"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Olive Oil",
+      "category": "healthy fat",
+      "safe_for": ["diabetes", "heart", "hypertension"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "Low-Fat Yogurt",
+      "category": "dairy",
+      "safe_for": ["diabetes", "hypertension", "heart"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "DASH guidance referenced by Academy of Nutrition and Dietetics (EatRight), NHS Inform, Healthline"
+    },
+    {
+      "name": "Eggs",
+      "category": "protein",
+      "safe_for": ["diabetes", "hypertension", "heart (in moderation)"],
+      "limit_for": [],
+      "avoid_for": [],
+      "source": "Healthline, Academy of Nutrition and Dietetics (EatRight), NHS Inform"
+    },
+    {
+      "name": "White Bread",
+      "category": "refined grains",
+      "safe_for": [],
+      "limit_for": [],
+      "avoid_for": ["diabetes", "heart", "hypertension"],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Sugary Drinks (Soda, Juice)",
+      "category": "beverages",
+      "safe_for": [],
+      "limit_for": [],
+      "avoid_for": ["diabetes", "heart", "hypertension"],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Processed Meats (Sausages, Bacon)",
+      "category": "meat",
+      "safe_for": [],
+      "limit_for": [],
+      "avoid_for": ["diabetes", "heart", "hypertension"],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    },
+    {
+      "name": "Fried Foods",
+      "category": "fast food",
+      "safe_for": [],
+      "limit_for": [],
+      "avoid_for": ["diabetes", "heart", "hypertension"],
+      "source": "Academy of Nutrition and Dietetics (EatRight), Healthline, NHS Inform"
+    }
+  ]
+}
